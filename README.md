@@ -31,3 +31,4 @@ The system utilizes a CSV file (`flood_data.csv`) with the following structure:
 - **ANNUAL**: Total yearly rainfall.
 - **Jan-Feb, Mar-May, Jun-Sep, Oct-Dec**: Seasonal rainfall totals.
 
+
